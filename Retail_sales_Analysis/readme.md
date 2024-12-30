@@ -169,10 +169,24 @@ GROUP BY shift
 
 ## Findings
 
-a) Customer Demographics: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
-b) High-Value Transactions: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
-c) Sales Trends: Monthly analysis shows variations in sales, helping identify peak seasons.
-d) Customer Insights: The analysis identifies the top-spending customers and the most popular product categories.
+# Customer Sales Analysis
+
+This repository contains an analysis of customer sales data, providing insights into various aspects of purchasing behavior. The key findings are as follows:
+
+- **Customer Demographics**: 
+  - The dataset includes customers from various age groups.
+  - Sales are distributed across different product categories such as Clothing and Beauty.
+
+- **High-Value Transactions**:
+  - Several transactions have a total sale amount greater than 1000, indicating premium purchases.
+
+- **Sales Trends**:
+  - Monthly analysis reveals variations in sales, helping to identify peak seasons.
+
+- **Customer Insights**:
+  - Identifies the top-spending customers.
+  - Highlights the most popular product categories.
+
 
 ## Reports
 
